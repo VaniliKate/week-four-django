@@ -7,3 +7,11 @@ The project is created with:
 * CSS:3 for styling the webpage.
 * Bootstrap for more styling of the webpage.
 * Python Django for the functionality.
+
+## Features
+
+- User authentication(Sign up and sign in).
+- Profile set up.
+- Create posts.
+- Update profile details.
+- View details of specific neighbourhoods.
