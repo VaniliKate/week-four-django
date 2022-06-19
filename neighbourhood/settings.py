@@ -10,7 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
-export DJANGO_SETTINGS_MODULE=mysites.settings
+
 
 from pathlib import Path
 
