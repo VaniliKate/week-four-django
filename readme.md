@@ -15,3 +15,13 @@ The project is created with:
 - Create posts.
 - Update profile details.
 - View details of specific neighbourhoods.
+
+### Installation
+
+- Make sure Python is installed.
+- Clone https://github.com/VaniliKate/weekthree-django.git and cd into weekthree-django.
+- Install requirements using following command.
+
+```
+pip install -r requirements.txt
+```
