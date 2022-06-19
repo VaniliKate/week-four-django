@@ -1,12 +1,15 @@
 # Neighbourhood
-This is a Django app that allows its users to be kept in the loop of what is happening in the area, this could be news like meetings, security concerns and power shortages. 
+
+This is a Django app that allows its users to be kept in the loop of what is happening in the area, this could be news like meetings, security concerns and power shortages.
 
 ## Technologies
+
 The project is created with:
-* HTML:5 for giving the structure of the webpage.
-* CSS:3 for styling the webpage.
-* Bootstrap for more styling of the webpage.
-* Python Django for the functionality.
+
+- HTML:5 for giving the structure of the webpage.
+- CSS:3 for styling the webpage.
+- Bootstrap for more styling of the webpage.
+- Python Django for the functionality.
 
 ## Features
 
@@ -19,12 +22,13 @@ The project is created with:
 ### Installation
 
 - Make sure Python is installed.
-- Clone https://github.com/VaniliKate/weekthree-django.git and cd into weekthree-django.
+- Clone https://github.com/VaniliKate/week-four-django.git and cd into week-four-django.
 - Install requirements using following command.
 
 ```
 pip install -r requirements.txt
 ```
+
 ### Usage
 
 - Create a virtual environment.
@@ -68,7 +72,6 @@ python manage.py runserver
 ```
 
 - This opens the app at `localhost:8000` or `http://127.0.0.1:8000/`
-
 
 ## Authors
 
