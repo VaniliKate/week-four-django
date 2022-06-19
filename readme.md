@@ -25,3 +25,46 @@ The project is created with:
 ```
 pip install -r requirements.txt
 ```
+### Usage
+
+- Create a virtual environment.
+
+```
+python3 -m venv venv
+. venv/bin/activate
+```
+
+- Declare following environment variables in the .env file.
+
+```
+> SECRET_KEY = 'secret key'
+> DEBUG = True
+> EMAIL_USERNAME = 'your email address'
+> EMAIL_PASSWORD = 'your password'
+```
+
+- Make migrations.
+
+```
+python manage.py migrate
+```
+
+- Commit the migrations.
+
+```
+python manage.py makemigrations
+```
+
+- Create a super user.
+
+```
+python manage.py createsuperuser
+```
+
+- Run the app.
+
+```
+python manage.py runserver
+```
+
+- This opens the app at `localhost:8000` or `http://127.0.0.1:8000/`
